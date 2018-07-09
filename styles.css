@@ -1,0 +1,11 @@
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+  border: 20px solid #bdc3c7;
+  padding: 20px;
+  max-width: 800px;
+  width: 80%;
+  margin: 20px auto;
+}
